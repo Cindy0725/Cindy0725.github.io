@@ -23,9 +23,9 @@ Research images are thumbnails of the corresponding papers or project pages:
 
 - SeqAlign3DVG: Figure 3 from the author-provided manuscript.
 - GVSynergy-Det: Figure 2 from the author-provided manuscript.
-- MASS: [Figure 1](https://arxiv.org/html/2604.08943v1/self_capture_cmyk.png).
-- GaussianCross: [framework image](https://rayyoh.github.io/static/images/GaussianCross.png).
-- 3DGeoDet: [result visualization](https://cindy0725.github.io/3DGeoDet/static/images/demo_images/065501_ours00.png).
+- MASS: [Figure 1 — real-world hand reconstructions](https://arxiv.org/html/2604.08943v1#S1.F1).
+- GaussianCross: [Figure 2 — overall framework](https://arxiv.org/html/2508.02172v1#S3.F2), using the [original figure](https://arxiv.org/html/2508.02172v1/architecture_1.png).
+- 3DGeoDet: [Figure 2 — overall framework](https://arxiv.org/html/2506.09541v1#S3.F2), using the [original figure](https://arxiv.org/html/2506.09541v1/drawing_framework.png).
 - Embodied learning survey: [overview image](https://rayyoh.github.io/static/images/ORCM.png).
 
 The original profile photographs are retained. The layout was written for this homepage, with the research and service presentation inspired by [Lei Yao's homepage](https://rayyoh.github.io/). `LICENSE` preserves the license notice from the previous AcademicPages template.
